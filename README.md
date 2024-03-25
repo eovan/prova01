@@ -1,11 +1,9 @@
 # app_deputados
-
-A new Flutter project.
+Mobile application about the Brazilian Chamber of Deputies.
 
 ## Getting Started
 
 A mobile application that consumes the Open Data API of the Brazilian Chamber of Deputies, thus providing important data about deputies.
-
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
