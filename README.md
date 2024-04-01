@@ -20,6 +20,8 @@ For the user to run the application, he will need:
 STEP 1-clone the repository.
 STEP2- access the folder
 STEP 3- type "cd folder_name" in the terminal.
+<br>
 STEP 4- type the command "flutter pub get" to install pubspeck.yaml.
+<br>
 STEP 5- And finally run the flutter project, with the "flutter run" command.
 
