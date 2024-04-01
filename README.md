@@ -17,8 +17,11 @@ It provides varieties of information.
 4- The user will also have access to the committees of the deputy of their choice.
 <br>
 For the user to run the application, he will need:
+<br>
 STEP 1-clone the repository.
+<br>
 STEP2- access the folder
+<br>
 STEP 3- type "cd folder_name" in the terminal.
 <br>
 STEP 4- type the command "flutter pub get" to install pubspeck.yaml.
