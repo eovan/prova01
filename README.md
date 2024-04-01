@@ -32,6 +32,6 @@ STEP 5- And finally run the flutter project, with the "flutter run" command.
 
 To execute, the user will need:
 <br>
-1- Change the device to vanegador
+1- Change the device to the vanegador
 <br>
 2- Press the shortcut CTRL+SHIFT+I to select the dimensions of a smartphone.
